@@ -46,4 +46,3 @@ See **PERFORMANCE.md** for detailed benchmarks and optimization techniques.
 
 ---
 
-For detailed performance analysis, see [PERFORMANCE.md](./PERFORMANCE.md)
